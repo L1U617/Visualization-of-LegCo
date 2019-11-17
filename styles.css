@@ -1,0 +1,31 @@
+body {
+	margin: 0px;
+	overflow: hidden;
+}
+
+.sphere {
+	fill: #98daee;
+}
+
+.district {
+	stroke: black;
+	stroke-width: 3px;
+}
+
+.district:hover {
+	fill:red;
+}
+.tick {
+  cursor: pointer;
+}
+
+.tick text {
+  font-size: 1em;
+  fill: black;
+  font-family: sans-serif;
+}
+
+.tick circle {
+  stroke: black;
+  stroke-opacity: 0.5;
+}
