@@ -1,0 +1,276 @@
+{
+	"type": "Result of election",
+	"features":
+	[
+		{
+			"district": "HONG KONG ISLAND",
+			"theElect":[
+				{
+					"Party":"NPP",
+					"Candidates":"IP LAU SUK YEE REGINA",
+					"percentOfVotes":16.13,
+					"Affiliation":"Pro-establishment",
+					"listNo":3
+				},
+				{
+					"Party":"DAB",
+					"Candidates":"CHEUNG KWOK KWAN",
+					"percentOfVotes":10.93,
+					"Affiliation":"Pro-establishment",
+					"listNo":5
+				},
+				{
+					"Party":"Demosistō",
+					"Candidates":"LAW KWUN CHUNG",
+					"percentOfVotes":13.49,
+					"Affiliation":"Self-determination",
+					"listNo":8		
+				},
+				{
+					"Party":"DP",
+					"Candidates":"HUI CHI FUNG",
+					"percentOfVotes":11.29,
+					"Affiliation":"Pan-democracy",
+					"listNo":13		
+				},
+				{
+					"Party":"CP",
+					"Candidates":"CHAN TANYA",
+					"percentOfVotes":9.4,
+					"Affiliation":"Pan-democracy",
+					"listNo":14	
+				},
+				{
+					"Party":"HKFTU",
+					"Candidates":"KWOK WAI KEUNG",
+					"percentOfVotes":12.2,
+					"Affiliation":"Pro-establishment",
+					"listNo":15	
+				}
+			]
+		},
+		{
+			"district":"KOWLOON WEST",
+			"theElect":[
+				{
+					"Party":"CP",
+					"Candidates":"MO MAN CHING CLAUDIA",
+					"percentOfVotes":11.59,
+					"Affiliation":"Pan-democracy",
+					"listNo":3
+				},
+				{
+					"Party":"BPA",
+					"Candidates":"LEUNG MEI FUN",
+					"percentOfVotes":17.84,
+					"Affiliation":"Pro-establishment",
+					"listNo":4
+				},
+				{
+					"Party":"DP",
+					"Candidates":"WONG PIK WAN",
+					"percentOfVotes":9.34,
+					"Affiliation":"Pan-democracy",
+					"listNo":8
+				},
+				{
+					"Party":"DAB",
+					"Candidates":"CHIANG LAI WAN",
+					"percentOfVotes":18.84,
+					"Affiliation":"Pro-establishment",
+					"listNo":10
+				},
+				{
+					"Party":"Democracy Groundwork",
+					"Candidates":"LAU SIU LAI",
+					"percentOfVotes":13.69,
+					"Affiliation":"Self-determination",
+					"listNo":12
+				},
+				{
+					"Party":"Youngspiration",
+					"Candidates":"YAU WAI CHING",
+					"percentOfVotes":7.4,
+					"Affiliation":"Localist groups",
+					"listNo":13
+				}
+			]
+		},
+		{
+			"district":"KOWLOON EAST",
+			"theElect":[
+				{
+					"Party":"HKFTU",
+					"Candidates":"WONG KWOK KIN",
+					"percentOfVotes":14.38,
+					"Affiliation":"Pro-establishment",
+					"listNo":1
+				},
+				{
+					"Party":"Positive Synergy",
+					"Candidates":"TSE WAI CHUN PAUL",
+					"percentOfVotes":14.45,
+					"Affiliation":"Pro-establishment",
+					"listNo":5
+				},
+				{
+					"Party":"DAB",
+					"Candidates":"OR CHONG SHING WILSON",
+					"percentOfVotes":15.66,
+					"Affiliation":"Pro-establishment",
+					"listNo":6
+				},
+				{
+					"Party":"DP",
+					"Candidates":"WU CHI WAI",
+					"percentOfVotes":15.29,
+					"Affiliation":"Pan-democracy",
+					"listNo":8
+				},
+				{
+					"Party":"CP",
+					"Candidates":"TAM MAN HO JEREMY JANSEN",
+					"percentOfVotes":13.8,
+					"Affiliation":"Pan-democracy",
+					"listNo":9
+				}
+			]
+		},
+		{
+			"district":"NEW TERRITORIES WEST",
+			"theElect":[
+				{
+					"Party":"DP",
+					"Candidates":"WAN SIU KIN ANDREW",
+					"percentOfVotes":6.91,
+					"Affiliation":"Pan-democracy",
+					"listNo":1
+				},
+				{
+					"Party":"Civic Passion",
+					"Candidates":"CHENG CHUNG TAI",
+					"percentOfVotes":9.03,
+					"Affiliation":"Self-determination",
+					"listNo":5
+				},
+				{
+					"Party":"NPP",
+					"Candidates":"TIEN MICHAEL PUK SUN",
+					"percentOfVotes":11.67,
+					"Affiliation":"Pro-establishment",
+					"listNo":7
+				},
+				{
+					"Party":"New Territories Concern Group",
+					"Candidates":"HO KWAN YIU",
+					"percentOfVotes":5.91,
+					"Affiliation":"Pro-establishment",
+					"listNo":8
+				},
+				{
+					"Party":"DAB",
+					"Candidates":"LEUNG CHE CHEUNG",
+					"percentOfVotes":8.32,
+					"Affiliation":"Pro-establishment",
+					"listNo":9
+				},
+				{
+					"Party":"CP",
+					"Candidates":"KWOK KA KI",
+					"percentOfVotes":7.02,
+					"Affiliation":"Pan-democracy",
+					"listNo":10
+				},
+				{
+					"Party":"HKFTU",
+					"Candidates":"MAK MEI KUEN ALICE",
+					"percentOfVotes":8.23,
+					"Affiliation":"Pro-establishment",
+					"listNo":14
+				},
+				{
+					"Party":"DAB",
+					"Candidates":"CHAN HAN PAN",
+					"percentOfVotes":9.72,
+					"Affiliation":"Pro-establishment",
+					"listNo":16
+				},
+				{
+					"Party":"Land Justice League",
+					"Candidates":"CHU HOI DICK EDDIE",
+					"percentOfVotes":13.94,
+					"Affiliation":"Self-determination",
+					"listNo":20
+				}		
+			]
+		},
+			{
+			"district":"NEW TERRITORIES EAST",
+			"theElect":[
+				{
+					"Party":"DP",
+					"Candidates":"LAM CHEUK TING",
+					"percentOfVotes":6.77,
+					"Affiliation":"Pan-democracy",
+					"listNo":2
+				},
+				{
+					"Party":"LSD",
+					"Candidates":"LEUNG KWOK HUNG",
+					"percentOfVotes":6.13,
+					"Affiliation":"Pan-democracy",
+					"listNo":5
+				},
+				{
+					"Party":"Labour Party",
+					"Candidates":"CHEUNG CHIU HUNG",
+					"percentOfVotes":8.58,
+					"Affiliation":"Pan-democracy",
+					"listNo":6
+				},
+				{
+					"Party":"CP",
+					"Candidates":"YEUNG ALVIN NGOK KIU",
+					"percentOfVotes":9.03,
+					"Affiliation":"Pan-democracy",
+					"listNo":7
+				},
+				{
+					"Party":"DAB",
+					"Candidates":"QUAT ELIZABETH",
+					"percentOfVotes":10.13,
+					"Affiliation":"Pro-establishment",
+					"listNo":10
+				},
+				{
+					"Party":"People Power",
+					"Candidates":"CHAN CHI CHUEN RAYMOND",
+					"percentOfVotes":7.92,
+					"Affiliation":"Pan-democracy",
+					"listNo":18
+				},
+				{
+					"Party":"Youngspiration",
+					"Candidates":"LEUNG CHUNG HANG SIXTUS",
+					"percentOfVotes":6.55,
+					"Affiliation":"Self-determination",
+					"listNo":19
+				},
+				{
+					"Party":"NPP",
+					"Candidates":"YUNG HOI YAN",
+					"percentOfVotes":6.23,
+					"Affiliation":"Pro-establishment",
+					"listNo":21
+				},
+				{
+					"Party":"DAB",
+					"Candidates":"CHAN HAK KAN",
+					"percentOfVotes":8.39,
+					"Affiliation":"Pro-establishment",
+					"listNo":22
+				}		
+			]
+		}
+	]
+}

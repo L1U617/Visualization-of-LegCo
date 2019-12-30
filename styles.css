@@ -1,31 +1,50 @@
 body {
 	margin: 0px;
-	overflow: hidden;
-}
-
-.sphere {
-	fill: #98daee;
 }
 
 .district {
+	cursor: pointer;
 	stroke: black;
 	stroke-width: 3px;
 }
 
-.district:hover {
-	fill:red;
-}
-.tick {
-  cursor: pointer;
+.district:hover{
+	stroke:#ff5050;
+	stroke-width:4px;
 }
 
-.tick text {
+
+.sDistrict {
+	stroke: black;
+	stroke-width: 2px;
+}
+
+
+.listTick text {
   font-size: 1em;
-  fill: black;
   font-family: sans-serif;
 }
 
-.tick circle {
+.listTick circle {
   stroke: black;
   stroke-opacity: 0.5;
+}
+
+text {
+	font: sans-serif;
+}
+
+.back {
+	cursor: pointer;
+}
+.candidates {
+	cursor: pointer;
+}
+
+.button {
+	cursor: pointer;
+}
+
+.bar {
+	cursor: pointer;
 }
